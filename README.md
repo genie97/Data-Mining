@@ -7,34 +7,25 @@
 ![](.\img\Title.jpg)
 
 **1. Extracting the top 5022 high frequency noun morpheme from inside Input_ Data**
-![result1](https://user-images.githubusercontent.com/32705138/61593759-a47a8500-ac1e-11e9-8e81-ea9eaf066487.jpg)
-
 ![](.\img\subscription1.jpg)
 
 > **Result**
 >
 > : Output.txt in the result directory
-
 ![](.\img\result1.jpg)
 
-
-
 **2. Compute TF/IDF**
-
 ![](.\img\subscription2.png)
 
 > **Result**
 >
 > : Input_data, Test_Data, Val_Data in the result directory
 
-
-
 **3. Training Data and Find Hyper Parameters Optimized for Neural Network Learning** 
 
 > **Result**
 >
 > : Optimized Hyper Parameters
-
 ![](.\img\result3.jpg)
 
 **4. Evaluation Model**
@@ -45,10 +36,7 @@
 >
 > - Macro_F1 = 0.80
 > - Micro_F1 = 0.79
-
 ![](.\img\result4.jpg)
-
-
 
 **5. Reference**
 
