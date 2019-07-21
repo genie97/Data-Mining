@@ -4,17 +4,17 @@
 
 <u>Topics : Evaluation the accuracy of a model that categorizes a category of news articles</u>
 
-![Title](.\img\Title.jpg)
+![](.\img\Title.jpg)
 
 **1. Extracting the top 5022 high frequency noun morpheme from inside Input_ Data**
 
-![subscription1](.\img\subscription1.jpg)
+![](.\img\subscription1.jpg)
 
 > **Result**
 >
 > : Output.txt in the result directory
 
-![result1](.\img\result1.jpg)
+![](.\img\result1.jpg)
 
 
 
