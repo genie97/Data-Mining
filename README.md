@@ -7,6 +7,7 @@
 ![](.\img\Title.jpg)
 
 **1. Extracting the top 5022 high frequency noun morpheme from inside Input_ Data**
+![result1](https://user-images.githubusercontent.com/32705138/61593759-a47a8500-ac1e-11e9-8e81-ea9eaf066487.jpg)
 
 ![](.\img\subscription1.jpg)
 
